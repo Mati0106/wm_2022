@@ -5,6 +5,7 @@ __pycache__/
 
 # C extensions
 *.so
+data/*.csv
 
 # Distribution / packaging
 .Python
@@ -127,4 +128,3 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
-projects/magdas/data/hotel_booking.csv
