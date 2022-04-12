@@ -3,9 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-*.html
 # C extensions
 *.so
+data/*.csv
 
 # Distribution / packaging
 .Python

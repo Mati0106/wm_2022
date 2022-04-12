@@ -3,7 +3,6 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-*.html
 # C extensions
 *.so
 
@@ -128,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+projects/magdas/data/hotel_booking.csv
+
+*.csv
