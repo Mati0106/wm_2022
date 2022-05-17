@@ -1,0 +1,4 @@
+1. https://www.kaggle.com/c/santander-customer-transaction-prediction/data
+2. https://www.kaggle.com/code/gpreda/default-of-credit-card-clients-predictive-models/notebook
+3. https://statquest.org/product/jupyter-notebook-xgboost-in-python/
+Uwaga: do jednego z datasetu brak linku, zbiory są również w postaci klasycznej.
